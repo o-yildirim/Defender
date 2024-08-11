@@ -1,2 +1,2 @@
-# Castle Defender
-2D endless defender game called Castle Defender developed with Unity.
+# Defender
+2D endless game developed with Unity.
